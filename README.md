@@ -3,7 +3,7 @@
 ![Topology Diagram](images/topology_diagram.png.png)
 
 ## 📌 Project Overview
-This project demonstrates a robust, fault-tolerant Campus Network architecture designed for high availability and security. The simulation was built using **Cisco Modeling Labs (CML)** using IOSv and IOSvL2 images.
+This project demonstrates a robust, fault-tolerant Campus Network architecture designed for high availability and security. The simulation was built using **Cisco Modeling Labs (CML)** using CSR1000v and IOSvL2 images.
 
 The primary goal was to design a network that eliminates Single Points of Failure (SPOF) at layers 2 and 3, while securing the access layer against common LAN attacks.
 
