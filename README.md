@@ -1,6 +1,6 @@
 # High Availability Enterprise Network Design (Cisco CML)
 
-![Topology Diagram](images/topology_diagram.png)
+![Topology Diagram](images/topology_diagram.png.png)
 
 ## 📌 Project Overview
 This project demonstrates a robust, fault-tolerant Campus Network architecture designed for high availability and security. The simulation was built using **Cisco Modeling Labs (CML)** using IOSv and IOSvL2 images.
